@@ -1,0 +1,18 @@
+.container{
+    width: 500px;
+    height: 150px;
+    padding: 10px;
+    border: 2px solid white;
+    columns: white;
+    margin: auto;
+}
+p{
+    color: rgb(116, 16, 63);
+}
+
+#country-heading{
+    color: rgb(240, 236, 243);
+    font-size: 20px;
+    font-family: "Roboto";
+    font-style: italic;
+}
